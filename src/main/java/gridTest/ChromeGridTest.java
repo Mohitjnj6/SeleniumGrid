@@ -31,7 +31,7 @@ public class ChromeGridTest
 		
 		
 		
-		//3. 
+		//3. driver navigation
 		
 		driver.get("https://www.google.com/");
 		System.out.println(driver.getTitle());
